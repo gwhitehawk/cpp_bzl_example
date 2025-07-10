@@ -1,0 +1,9 @@
+bazel-*
+MODULE.bazel.lock
+.idea/workspace.xml
+.vscode
+.ijwb
+.DS_Store
+licenses/
+profiles/
+/gitbundle/bazelbuild/
